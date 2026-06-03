@@ -1,0 +1,24 @@
+credentials:
+  usernames:
+    samarth:
+      name: Samarth
+      password: "$2b$12$huBr8AfJjMAkUxN2fCmXWuMsEkwEcjvVo5oTFqm7q8i3o5RFssk4m"
+    tejashree:
+      name: Tejashree
+      password: "$2b$12$23j3NmA/mMDsAkAQaiVJGuNxqtSQWym0RtJ16vU9Um7J4VUxw/IeS"
+    ramesh:
+      name: Ramesh
+      password: "$2b$12$2Tiai2lD9sp8qIH5owlL.OYdhmM7.RWP1SuecbtKXG9utPvWS6Fma"
+    priya:
+      name: Priya
+      password: "$2b$12$7Fm7f.g04ZIyUWex7vTzYeqqyNwnMkVXkAuh2yCMhFweHThuPYyfG"
+    amit:
+      name: Amit
+      password: "$2b$12$u5kpPJFqgX23GP89nOyF/.fu6PfTYFQYn57zTO/mLozHOtwp5SXZW"
+cookie:
+  name: ipldashboard_cookie
+  key: some_random_secret_key
+  expiry_days: 30
+preauthorized:
+  emails: []
+
